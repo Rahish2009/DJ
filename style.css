@@ -24,3 +24,10 @@ canvas
     margin-top:130px;
     box-shadow: 5px 5px 5px white;
 }
+
+#head
+{
+    font: left;
+    position: fixed;
+    font-size: 23px;
+}
